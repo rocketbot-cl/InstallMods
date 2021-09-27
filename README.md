@@ -6,6 +6,8 @@ Addon to install modules in a simple way.
 
 ## Updates
 
+### 27-09-2021
+- Fix Folder name
 ### 19-02-2021
 - New view
 - Now, you can also install addons and tools.
